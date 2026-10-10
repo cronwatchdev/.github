@@ -20,7 +20,7 @@ Wrap a job once, and CronWatch records every run in a database you already have.
 | Java | `dev.cronwatch:cronwatch` |
 | .NET | `dotnet add package Cronwatch` |
 
-There are also plugins for [WordPress](https://wordpress.org/plugins/cronwatch/), [Drupal](https://www.drupal.org/project/cronwatch), and [Craft CMS](https://plugins.craftcms.com/cronwatch), integrations for Laravel, Symfony, Django, Celery, Sidekiq, Oban, Spring, Quartz, Hangfire, and more, an [MCP server](https://cronwatch.dev/docs/mcp/) (`@cronwatch/mcp`), and an [agent skill](https://cronwatch.dev/docs/agent-skill/) (`npx skills add cronwatchdev/cronwatch`).
+There are also plugins for [WordPress](https://wordpress.org/plugins/cronwatch/), [Drupal](https://www.drupal.org/project/cronwatch), and [Craft CMS](https://plugins.craftcms.com/cronwatch), integrations for Laravel, Symfony, Django, Celery, Sidekiq, Oban, Spring, Quartz, Hangfire, and more, an [MCP server](https://cronwatch.dev/docs/mcp/) (`@cronwatch/mcp`), and an [agent skill](https://cronwatch.dev/docs/agent-skill/) (`npx skills add cronwatchdev/cronwatch`, [on skills.sh](https://www.skills.sh/cronwatchdev/cronwatch)).
 
 ### Repositories
 
