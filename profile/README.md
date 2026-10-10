@@ -16,7 +16,7 @@ Wrap a job once, and CronWatch records every run in a database you already have.
 | PHP | `composer require cronwatch/cronwatch` |
 | Go | `go get cronwatch.dev/go` |
 | Rust | `cargo add cronwatch` |
-| Elixir | `{:cronwatch, "~> 0.12"}` |
+| Elixir | add [`:cronwatch`](https://hex.pm/packages/cronwatch) to `mix.exs` |
 | Java | `dev.cronwatch:cronwatch` |
 | .NET | `dotnet add package Cronwatch` |
 
